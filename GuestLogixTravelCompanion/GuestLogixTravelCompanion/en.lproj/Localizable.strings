@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  GuestLogixTravelCompanion
+
+  Created by Balakumaran Srirangaswamy on 5/20/19.
+  Copyright © 2019 Bala. All rights reserved.
+*/
+"kOk" = "Ok";
+"kFlightAdvisor" = "Flight Advisor";
+"kDataUnavailable" = "Data Unavailable";
+"kAirportUnavailable" = "Airport Unavailable";
+"kOriginAirportDoesnotExist" = "This origin airport doesnot exist.";
+"kDestinationAirportDoesnotExist" = "This destination airport doesnot exist.";
+"kNoFlights" = "No Flights";
+"kNoFlightsAvailableRoute" = "No flights available for the selected route.";
+"kTotalDistance" = "Total Distance = ";
+"kNonStopFlights" = "Non stop flights";
+"kOneStopFlights" = "One stop flights";
+"kTwoStopFlights" = "Two stop flights";
+"kRouteMap" = "Route Map";

@@ -1,0 +1,38 @@
+[
+ {
+   "Name": "Air China",
+   "2 Digit Code": "CA",
+   "3 Digit Code": "CCA",
+   "Country": "China"
+ },
+ {
+   "Name": "China Southern Airlines",
+   "2 Digit Code": "CZ",
+   "3 Digit Code": "CSN",
+   "Country": "China"
+ },
+ {
+   "Name": "Southwest Airlines",
+   "2 Digit Code": "WN",
+   "3 Digit Code": "SWA",
+   "Country": "United States"
+ },
+ {
+   "Name": "Turkish Airlines",
+   "2 Digit Code": "TK",
+   "3 Digit Code": "THY",
+   "Country": "Turkey"
+ },
+ {
+   "Name": "United Airlines",
+   "2 Digit Code": "UA",
+   "3 Digit Code": "UAL",
+   "Country": "United States"
+ },
+ {
+   "Name": "WestJet",
+   "2 Digit Code": "WS",
+   "3 Digit Code": "WJA",
+   "Country": "Canada"
+ }
+]
