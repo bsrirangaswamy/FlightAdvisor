@@ -11,6 +11,14 @@
 		2D57E5C9228F1507003DFFA4 /* RoutesDisplayTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D57E5C7228F1507003DFFA4 /* RoutesDisplayTableViewCell.swift */; };
 		2D57E5CA228F1507003DFFA4 /* RoutesDisplayTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D57E5C7228F1507003DFFA4 /* RoutesDisplayTableViewCell.swift */; };
 		2DA97E0122938C4B00E8CF11 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2DA97E0322938C4B00E8CF11 /* Localizable.strings */; };
+		2DDF0C9D229430B900745BED /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DEF4C5B228E2A0D00671B4C /* ViewController.swift */; };
+		2DDF0C9E2294313600745BED /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DEF4C59228E2A0D00671B4C /* AppDelegate.swift */; };
+		2DDF0C9F2294313700745BED /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DEF4C59228E2A0D00671B4C /* AppDelegate.swift */; };
+		2DDF0CA02294313900745BED /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DEF4C5B228E2A0D00671B4C /* ViewController.swift */; };
+		2DDF0CA12294313F00745BED /* TravelCompanionFileManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DEF4C98228E343B00671B4C /* TravelCompanionFileManager.swift */; };
+		2DDF0CA22294314000745BED /* TravelCompanionFileManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DEF4C98228E343B00671B4C /* TravelCompanionFileManager.swift */; };
+		2DDF0CA32294314A00745BED /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2DA97E0322938C4B00E8CF11 /* Localizable.strings */; };
+		2DDF0CA42294314A00745BED /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2DA97E0322938C4B00E8CF11 /* Localizable.strings */; };
 		2DEBBBC42290B16F00E315EA /* RouteMapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DEBBBC32290B16F00E315EA /* RouteMapViewController.swift */; };
 		2DEBBBC52290B16F00E315EA /* RouteMapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DEBBBC32290B16F00E315EA /* RouteMapViewController.swift */; };
 		2DEBBBC62290B16F00E315EA /* RouteMapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DEBBBC32290B16F00E315EA /* RouteMapViewController.swift */; };
@@ -376,6 +384,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2DEF4C95228E337200671B4C /* routes.json in Resources */,
+				2DDF0CA32294314A00745BED /* Localizable.strings in Resources */,
 				2DEF4C8F228E337200671B4C /* airline.json in Resources */,
 				2DEF4C92228E337200671B4C /* airports.json in Resources */,
 			);
@@ -386,6 +395,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2DEF4C96228E337200671B4C /* routes.json in Resources */,
+				2DDF0CA42294314A00745BED /* Localizable.strings in Resources */,
 				2DEF4C90228E337200671B4C /* airline.json in Resources */,
 				2DEF4C93228E337200671B4C /* airports.json in Resources */,
 			);
@@ -571,10 +581,13 @@
 				2DEF4CA3228E390600671B4C /* Airline.swift in Sources */,
 				2DEBBBCD2290E8DC00E315EA /* RoutesAnnotation.swift in Sources */,
 				2DEF4CAB228E3C3C00671B4C /* Airports.swift in Sources */,
+				2DDF0C9D229430B900745BED /* ViewController.swift in Sources */,
 				2D57E5C9228F1507003DFFA4 /* RoutesDisplayTableViewCell.swift in Sources */,
+				2DDF0CA12294313F00745BED /* TravelCompanionFileManager.swift in Sources */,
 				2DEF4CAF228E3D8500671B4C /* Routes.swift in Sources */,
 				2DEBBBC52290B16F00E315EA /* RouteMapViewController.swift in Sources */,
 				2DEF4C72228E2A1000671B4C /* GuestLogixTravelCompanionTests.swift in Sources */,
+				2DDF0C9E2294313600745BED /* AppDelegate.swift in Sources */,
 				2DEF4CA7228E3A1400671B4C /* TravelComapanionDataManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -583,9 +596,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2DDF0CA02294313900745BED /* ViewController.swift in Sources */,
 				2DEF4CA4228E390600671B4C /* Airline.swift in Sources */,
 				2DEBBBCE2290E8DC00E315EA /* RoutesAnnotation.swift in Sources */,
 				2DEF4CAC228E3C3C00671B4C /* Airports.swift in Sources */,
+				2DDF0C9F2294313700745BED /* AppDelegate.swift in Sources */,
+				2DDF0CA22294314000745BED /* TravelCompanionFileManager.swift in Sources */,
 				2D57E5CA228F1507003DFFA4 /* RoutesDisplayTableViewCell.swift in Sources */,
 				2DEF4CB0228E3D8500671B4C /* Routes.swift in Sources */,
 				2DEBBBC62290B16F00E315EA /* RouteMapViewController.swift in Sources */,

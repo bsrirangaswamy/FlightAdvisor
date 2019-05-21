@@ -17,7 +17,7 @@ class RouteMapViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         routeMapView.delegate = self
-        self.title = "Route Map"
+        self.title = "kRouteMap".localized
         
         if let routesArray = routes {
             let airportAnnotationArray = convertRoutesToAnnotationArray(routes: routesArray)

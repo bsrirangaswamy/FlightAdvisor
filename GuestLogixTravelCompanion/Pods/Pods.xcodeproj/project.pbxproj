@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 46;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -73,14 +73,14 @@
 		1066C6558F883FB59933D4BAD13F0ECE /* Pods-GuestLogixTravelCompanionTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-GuestLogixTravelCompanionTests.modulemap"; sourceTree = "<group>"; };
 		14294620729E8D1EB58EBFAE06D9FEAD /* ObjectMapper-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ObjectMapper-dummy.m"; sourceTree = "<group>"; };
 		161CED7691BD693AF84976BB22EAE4C2 /* Pods-GuestLogixTravelCompanionUITests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-GuestLogixTravelCompanionUITests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		17D972B1B123261F871FB7FFC3A806CF /* SwiftyJSON.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SwiftyJSON.framework; path = SwiftyJSON.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		1BF92C7A425DA827C822F2AFA0752D03 /* Pods_GuestLogixTravelCompanion.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_GuestLogixTravelCompanion.framework; path = "Pods-GuestLogixTravelCompanion.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		17D972B1B123261F871FB7FFC3A806CF /* SwiftyJSON.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SwiftyJSON.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		1BF92C7A425DA827C822F2AFA0752D03 /* Pods_GuestLogixTravelCompanion.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GuestLogixTravelCompanion.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D3EE9A09247CFF2E2854E6CE1789822 /* TransformOperators.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TransformOperators.swift; path = Sources/TransformOperators.swift; sourceTree = "<group>"; };
 		253FDB3776E437FF46BBCBE74A94F093 /* TransformType.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TransformType.swift; path = Sources/TransformType.swift; sourceTree = "<group>"; };
 		256DCC149056F319489B6E9FDC194EFC /* DateTransform.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DateTransform.swift; path = Sources/DateTransform.swift; sourceTree = "<group>"; };
 		2717E638FFD606E1B359521CB265B97F /* Pods-GuestLogixTravelCompanionTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-GuestLogixTravelCompanionTests-resources.sh"; sourceTree = "<group>"; };
 		27B9943F9F4BE871AB063461562985B8 /* EnumOperators.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EnumOperators.swift; path = Sources/EnumOperators.swift; sourceTree = "<group>"; };
-		2DA0E604EC6E18E058E2087274C1F90B /* ObjectMapper.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = ObjectMapper.framework; path = ObjectMapper.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		2DA0E604EC6E18E058E2087274C1F90B /* ObjectMapper.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ObjectMapper.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2F074BBA916B7DA911008EEB265435E5 /* Pods-GuestLogixTravelCompanionTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-GuestLogixTravelCompanionTests-umbrella.h"; sourceTree = "<group>"; };
 		2F70FF6914536816A63167548B51C54B /* CustomDateFormatTransform.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CustomDateFormatTransform.swift; path = Sources/CustomDateFormatTransform.swift; sourceTree = "<group>"; };
 		30B242A474EAFBFB2BBD793A7F9099E0 /* Pods-GuestLogixTravelCompanion-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-GuestLogixTravelCompanion-resources.sh"; sourceTree = "<group>"; };
@@ -90,7 +90,7 @@
 		3A7BE581A1692ACA8C03DCC118930E12 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		48E51A9232EE5A3CB2770013272BF696 /* Map.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Map.swift; path = Sources/Map.swift; sourceTree = "<group>"; };
 		4AD5BFC61B8B118176347959E13A1ABA /* Pods-GuestLogixTravelCompanionUITests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-GuestLogixTravelCompanionUITests-dummy.m"; sourceTree = "<group>"; };
-		4ED52D4CAFBB73AA0A04FACD54D42279 /* Pods_GuestLogixTravelCompanionUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_GuestLogixTravelCompanionUITests.framework; path = "Pods-GuestLogixTravelCompanionUITests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4ED52D4CAFBB73AA0A04FACD54D42279 /* Pods_GuestLogixTravelCompanionUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GuestLogixTravelCompanionUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		52BB96673A50CB3BBAEEFF24F80237B7 /* DictionaryTransform.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DictionaryTransform.swift; path = Sources/DictionaryTransform.swift; sourceTree = "<group>"; };
 		56438F2CD9552E7741F6F5A2359ACF77 /* EnumTransform.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EnumTransform.swift; path = Sources/EnumTransform.swift; sourceTree = "<group>"; };
 		564E3A59776017F45F44FC6958A8D46D /* ToJSON.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ToJSON.swift; path = Sources/ToJSON.swift; sourceTree = "<group>"; };
@@ -103,7 +103,7 @@
 		660A0F6FBCD07CAE7475C3B8638B62BF /* Pods-GuestLogixTravelCompanionTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-GuestLogixTravelCompanionTests-frameworks.sh"; sourceTree = "<group>"; };
 		67874206803FA5BF731E641846098D7E /* ObjectMapper-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ObjectMapper-umbrella.h"; sourceTree = "<group>"; };
 		6936F6822E84EBC4044673DBD4FA3786 /* SwiftyJSON.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SwiftyJSON.xcconfig; sourceTree = "<group>"; };
-		6F2A50678B154A557FE823121697F272 /* Pods_GuestLogixTravelCompanionTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_GuestLogixTravelCompanionTests.framework; path = "Pods-GuestLogixTravelCompanionTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6F2A50678B154A557FE823121697F272 /* Pods_GuestLogixTravelCompanionTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GuestLogixTravelCompanionTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		706CF3DA4B7D63A20A49B2DAB10AD2BE /* URLTransform.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = URLTransform.swift; path = Sources/URLTransform.swift; sourceTree = "<group>"; };
 		7FBF488B0E0E653C2726DC43CD0F6971 /* TransformOf.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TransformOf.swift; path = Sources/TransformOf.swift; sourceTree = "<group>"; };
 		8548699F7BFCEC21C6F6470C647973D2 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -114,7 +114,7 @@
 		8F5B5718ACFBB72CBBC2BBDEEFD17E93 /* ObjectMapper.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ObjectMapper.xcconfig; sourceTree = "<group>"; };
 		905C94E2B29B993B1D6F1E7595DD71FD /* Pods-GuestLogixTravelCompanionUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-GuestLogixTravelCompanionUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		9298FA35034AB327F8967EBD8AE3CE4E /* Pods-GuestLogixTravelCompanion.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-GuestLogixTravelCompanion.debug.xcconfig"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		93B2EDA38E21BA4D848A74AB158C9332 /* DateFormatterTransform.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DateFormatterTransform.swift; path = Sources/DateFormatterTransform.swift; sourceTree = "<group>"; };
 		948B99E0C1ED22E0BCF3D3971F7607C8 /* SwiftyJSON.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftyJSON.swift; path = Source/SwiftyJSON/SwiftyJSON.swift; sourceTree = "<group>"; };
 		976762837169DD3691BF1EADBD497C94 /* HexColorTransform.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = HexColorTransform.swift; path = Sources/HexColorTransform.swift; sourceTree = "<group>"; };
@@ -272,7 +272,6 @@
 				948B99E0C1ED22E0BCF3D3971F7607C8 /* SwiftyJSON.swift */,
 				90132A40F0D79B09DAF50B08F0124A6C /* Support Files */,
 			);
-			name = SwiftyJSON;
 			path = SwiftyJSON;
 			sourceTree = "<group>";
 		};
@@ -336,7 +335,6 @@
 				706CF3DA4B7D63A20A49B2DAB10AD2BE /* URLTransform.swift */,
 				1F476A570B936FE5BD75E4372C718A59 /* Support Files */,
 			);
-			name = ObjectMapper;
 			path = ObjectMapper;
 			sourceTree = "<group>";
 		};
@@ -517,7 +515,9 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
+				Base,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
 			productRefGroup = F07287AC620F943BD0291BFE8DA31B6B /* Products */;

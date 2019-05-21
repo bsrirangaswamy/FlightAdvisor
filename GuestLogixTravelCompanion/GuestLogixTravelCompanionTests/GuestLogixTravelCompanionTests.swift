@@ -26,13 +26,10 @@ class GuestLogixTravelCompanionTests: XCTestCase {
     }
     
     func testAirportMapper() {
-        // 1. Given
         let jsonDict: [String: Any] = ["Name": "GuestLogix", "City": "Toronto", "Country": "Canada", "IATA 3": "YYZ", "Latitute": 43.67720032, "Longitude": -79.63059998]
         
-        // 2. When
         let testAirport = Mapper<Airports>().map(JSON: jsonDict)
         
-        // 3. Then
         XCTAssertEqual(testAirport?.name, "GuestLogix", "Airport name mapped incorrectly")
         XCTAssertEqual(testAirport?.iata3, "YYZ", "Airport iata3 mapped incorrectly")
         XCTAssertEqual(testAirport?.longitude, -79.63059998, "Airport longitude mapped incorrectly")
