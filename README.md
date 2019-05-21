@@ -4,4 +4,4 @@
 - User can tap on any route in the list to view the path on a map detail screen.
 - User is shown direct routes, one stop routes and 2 stop routes.
 - User is shown an alert if entered IATA code does not exist in the database or if no route exists between the two airports.
-- Unit tests to verify model mapping functionality and route distnce calculation have been provided.
+- Unit tests to verify model mapping functionality and route distance calculation have been provided.
